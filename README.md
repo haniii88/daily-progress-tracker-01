@@ -1,4 +1,4 @@
-/* Daily Script — Da 01 */
+/* Daily Script — Day 01 */
 /* This script logs the current date and generates a small status update */
 
 function dailyUpdate() {
